@@ -1,0 +1,27 @@
+{
+  "slug": "veyn",
+  "name": "Veyn",
+  "role": "Finance Education Creator",
+  "expertise": [
+    "Financial Stories",
+    "Everyday Economics",
+    "Wealth Basics",
+    "Risk & Scams"
+  ],
+  "targetAudience": "Readers seeking clear, evidence-aware financial analysis",
+  "writingStyle": {
+    "tone": "narrative, accessible, practical",
+    "rules": [
+      "Lead with the question or decision",
+      "Separate evidence from interpretation",
+      "State uncertainty and limitations",
+      "Never promise returns or outcomes"
+    ]
+  },
+  "contentInputs": {
+    "profile": "../data/profile.json",
+    "articles": "../data/articles.json",
+    "research": "../data/research.json"
+  },
+  "reviewRequired": true
+}

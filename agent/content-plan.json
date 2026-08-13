@@ -1,0 +1,47 @@
+{
+  "cadence": "2 articles and 1 research note per month",
+  "lanes": [
+    {
+      "topic": "Financial Stories",
+      "priority": 1,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Everyday Economics",
+      "priority": 2,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Wealth Basics",
+      "priority": 3,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Risk & Scams",
+      "priority": 4,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    }
+  ],
+  "workflow": [
+    "draft",
+    "source check",
+    "human review",
+    "publish"
+  ]
+}

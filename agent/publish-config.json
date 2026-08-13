@@ -1,0 +1,10 @@
+{
+  "provider": "github-pages",
+  "owner": "finance-simplified",
+  "repository": "github.io",
+  "branch": "main",
+  "siteUrl": "https://finance-simplified.github.io/github.io/",
+  "basePath": "",
+  "contentSource": "data/articles.json",
+  "reviewRequired": true
+}

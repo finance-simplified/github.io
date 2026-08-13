@@ -1,0 +1,23 @@
+[
+  {
+    "id": "veyn-research-1",
+    "title": "Everyday Economics",
+    "type": "Explainer series",
+    "summary": "How rates, inflation, currency and employment show up in ordinary life.",
+    "status": "12 stories"
+  },
+  {
+    "id": "veyn-research-2",
+    "title": "Financial History Files",
+    "type": "Case archive",
+    "summary": "Short narrative cases about bubbles, crises, fraud and institutional change.",
+    "status": "9 cases"
+  },
+  {
+    "id": "veyn-research-3",
+    "title": "Money Decisions",
+    "type": "Practical guides",
+    "summary": "Cash flow, insurance, debt and long-term wealth through decision frameworks.",
+    "status": "7 guides"
+  }
+]

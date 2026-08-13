@@ -1,0 +1,90 @@
+[
+  {
+    "id": "inflation-grocery",
+    "title": "The Grocery Receipt That Explains Inflation",
+    "category": "Everyday Economics",
+    "summary": "One ordinary basket reveals how supply, wages, expectations and policy travel into daily prices.",
+    "readTime": "5 min",
+    "date": "2026-08-08",
+    "tags": [
+      "Inflation",
+      "Story"
+    ],
+    "status": "published",
+    "body": {
+      "intro": "A grocery receipt is a small economic record. Compare the same basket over time and it begins to show how changes in transport, ingredients, labour and demand reach a household budget.",
+      "heading1": "A price is a chain of decisions",
+      "section1": "The shelf price is the final link in a longer chain. Producers absorb changes in energy and materials, distributors respond to freight and storage costs, and retailers decide how much of those pressures customers will accept. A single item can move for its own reasons; a broad rise across many categories points to a wider inflation story.",
+      "quote": "The receipt tells us what changed. Understanding why still requires looking behind the total.",
+      "heading2": "Read the basket, not one item",
+      "section2": "Track comparable products, quantities and shopping habits over several months. Separate temporary jumps from persistent increases, and notice which categories account for most of the change. Official inflation data provides the wider benchmark; the household basket shows how differently that average can be experienced.",
+      "close": "The useful lesson is not that every higher price has the same cause, but that everyday spending offers a practical starting point for asking better economic questions."
+    }
+  },
+  {
+    "id": "bubble-anatomy",
+    "title": "Anatomy of a Bubble: Five Moments History Repeats",
+    "category": "Financial History",
+    "summary": "From a persuasive story to a crowded exit—the recurring structure behind very different booms.",
+    "readTime": "9 min",
+    "date": "2026-07-30",
+    "tags": [
+      "History",
+      "Markets"
+    ],
+    "status": "published",
+    "body": {
+      "intro": "Market bubbles rarely repeat in every detail, but their rhythm is familiar: a credible innovation becomes a powerful story, rising prices validate the story, and caution starts to look old-fashioned.",
+      "heading1": "From discovery to certainty",
+      "section1": "The first stage often contains something real—a new technology, a policy shift or a scarce asset. Early gains attract attention and easy financing expands participation. As prices rise, success is treated as proof that the most optimistic assumptions were correct, even when cash flows or adoption cannot yet support them.",
+      "quote": "A bubble becomes fragile when the price needs the story to improve faster than the evidence can.",
+      "heading2": "The crowded exit",
+      "section2": "Momentum can persist long after valuation concerns appear. The turn may begin with tighter credit, disappointing growth or nothing more dramatic than a shortage of new buyers. Once participants try to leave together, liquidity disappears quickly and yesterday's confidence becomes today's selling pressure.",
+      "close": "History cannot identify the exact top, but it can reveal the conditions that make a market dependent on perfect expectations."
+    }
+  },
+  {
+    "id": "emergency-fund",
+    "title": "Your Emergency Fund Is a Portfolio Decision",
+    "category": "Wealth Basics",
+    "summary": "How to size liquidity around real obligations instead of a universal rule of thumb.",
+    "readTime": "6 min",
+    "date": "2026-07-19",
+    "tags": [
+      "Money",
+      "Planning"
+    ],
+    "status": "published",
+    "body": {
+      "intro": "An emergency fund is usually described as a fixed number of months of expenses. In practice, it is a portfolio decision about liquidity: how much certainty you want, what it costs to hold, and which risks it must cover.",
+      "heading1": "Start with obligations",
+      "section1": "List expenses that cannot easily be delayed, then consider how stable your income is and how quickly insurance or other support would arrive. A household with variable income, dependants or a concentrated source of earnings may need a larger buffer than one with several reliable income streams.",
+      "quote": "The right cash buffer is the one that buys enough time to make a considered decision under stress.",
+      "heading2": "Balance access and opportunity cost",
+      "section2": "Emergency money should be easy to reach and difficult to lose at the moment it is needed. That usually matters more than maximizing return. Review the amount after major changes in rent, debt, employment or family responsibilities rather than treating the initial target as permanent.",
+      "close": "A useful emergency fund is personal, liquid and connected to real obligations—not a universal rule copied without context."
+    }
+  },
+  {
+    "id": "scam-language",
+    "title": "The Seven Phrases Financial Scams Keep Reusing",
+    "category": "Risk Prevention",
+    "summary": "A practical language checklist for slowing down high-pressure financial decisions.",
+    "readTime": "7 min",
+    "date": "2026-07-06",
+    "tags": [
+      "Risk",
+      "Safety"
+    ],
+    "status": "published",
+    "body": {
+      "intro": "Financial scams change their logos and platforms, but their language is remarkably consistent. The words are designed to create urgency, borrow authority and prevent an independent check.",
+      "heading1": "Listen for pressure",
+      "section1": "Be cautious when a message says an opportunity is guaranteed, secret, risk-free or available only today. Other warning phrases include act now, recover your losses, pay a release fee, move money to a safe account, and do not tell anyone. Legitimate institutions do not need secrecy or panic to protect your money.",
+      "quote": "Urgency is useful to a scammer because careful verification takes time.",
+      "heading2": "Break the script",
+      "section2": "Stop the conversation and contact the organization through a number or website you locate independently. Do not use the caller's link, transfer funds for verification or share one-time security codes. Ask someone you trust to review the request before any irreversible payment.",
+      "close": "Recognizing the language does not replace verification, but it creates the pause in which verification becomes possible."
+    }
+  }
+]

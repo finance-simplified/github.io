@@ -1,0 +1,18 @@
+{
+  "slug": "veyn",
+  "name": "Veyn",
+  "role": "Finance Education Creator",
+  "brand": "Finance Simplified",
+  "school": "University of Sydney · Business School",
+  "major": "Finance · Financial Economics · Business Analytics",
+  "bio": "Veyn turns complex financial concepts into stories everyone can understand, sharing insights on financial news, wealth management, financial history, risk prevention and emerging fields to help more people build sound financial literacy.",
+  "avatar": "assets/avatar.png",
+  "topics": [
+    "Financial Stories",
+    "Everyday Economics",
+    "Wealth Basics",
+    "Risk & Scams"
+  ],
+  "language": "en",
+  "disclaimer": "Educational content only; not investment advice."
+}
