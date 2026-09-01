@@ -1,5 +1,26 @@
 [
   {
+    "id": "treasury-yields-and-mortgage-rates-why-a-bond-buyback-can-help-but-cannot-solve",
+    "title": "Treasury Yields and Mortgage Rates: Why a Bond Buyback Can Help but Cannot Solve Borrowing Costs",
+    "category": "Article",
+    "summary": "Treasury yields matter because they shape the price of long-term borrowing across the economy, especially mortgages. The U.S. Treasury Department's recent long-bond buyback helped stabilize yields in the short run, but…",
+    "readTime": "3 min",
+    "date": "2026-09-01",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Treasury yields matter because they shape the price of long-term borrowing across the economy, especially mortgages. The U.S. Treasury Department's recent long-bond buyback helped stabilize yields in the short run, but households should not assume that one intervention will permanently lower mortgage rates: inflation expectations, fiscal deficits, economic growth, and investor demand still set the broader direction.</p><p><img src=\"assets/github-treasury-yields-and-mortgage-rates-why-a-bond-buyback-can-help-but-cannot-solve-1.png\" alt=\"\" loading=\"lazy\">",
+      "heading1": "What happened to U.S. Treasury yields in August 2026?",
+      "section1": "On August 26, Axios reported that the Treasury's plan to buy back longer-term securities by at least $4 billion at a time had coincided with steadier long-term yields. The 30-year Treasury yield had reached 5.31% on August 17, a 19-year high, before falling to 5.19% by the following Wednesday morning. The 10-year Treasury yield moved to 4.66%, down from 4.72% on August 17. These changes are meaningful because the 10-year Treasury is a widely watched reference point for long-term consumer borrowing.",
+      "quote": "",
+      "heading2": "Why do bond prices and yields move in opposite directions?",
+      "section2": "A bond has fixed promised interest payments. When investors bid up its price, those fixed payments represent a lower return for a new buyer, so its yield falls. When investors sell and the price declines, the same payments represent a higher return, so its yield rises. A Treasury buyback removes some outstanding bonds from the market. All else equal, less available supply can support bond prices and put downward pressure on yields.</p><p><strong>How do Treasury yields reach a household mortgage rate?</strong></p><p>Mortgage lenders do not simply copy the 10-year Treasury yield. They add a spread that reflects mortgage-backed-security demand, prepayment risk, credit risk, operating costs, and expected inflation. Still, Treasury yields are an important benchmark: when long-term yields stay high, lenders generally need higher mortgage rates to compensate investors. That is why a decline in Treasury yields can improve borrowing conditions, while a short-lived market move may not immediately produce a better loan quote.</p><p><strong>Why can't a Treasury buyback guarantee cheaper credit?</strong></p><p>A buyback can influence market mechanics and investor confidence, but it does not erase the reasons investors may demand higher long-term returns. Persistent inflation can reduce the future purchasing power of bond payments. Large government borrowing needs can increase the supply investors must absorb. Strong growth, changing Federal Reserve expectations, and global risk appetite can also move yields. If those fundamentals remain unfavorable, markets may reverse an initial yield decline.</p><p><strong>What should borrowers and investors do next?</strong></p><p>For a homebuyer or refinancing household, the practical response is to compare multiple lender quotes, understand the annual percentage rate and fees, and avoid making a major decision based on one day's Treasury move. For long-term investors, rising yields can lower existing bond prices but may also create higher income opportunities on newly issued high-quality bonds. Match bond duration and debt decisions to your cash-flow horizon, and treat policy headlines as one input rather than a forecast of guaranteed lower rates.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "higher-interest-rates-and-ai-investing-why-selectivity-matters-for-individual-in",
     "title": "Higher Interest Rates and AI Investing: Why Selectivity Matters for Individual Investors",
     "category": "Article",
