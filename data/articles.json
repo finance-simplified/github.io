@@ -1,5 +1,26 @@
 [
   {
+    "id": "tokenized-stocks-explained-what-the-sec-s-innovation-exemption-means-for-investo",
+    "title": "Tokenized Stocks Explained: What the SEC's Innovation Exemption Means for Investors",
+    "category": "Article",
+    "summary": "Tokenized stocks are not a new asset class by themselves: they are digital representations of shares or share-linked interests. The key investor question is whether the token gives the holder the same economic and legal…",
+    "readTime": "3 min",
+    "date": "2026-09-22",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "<strong>Tokenized stocks are not a new asset class by themselves:</strong> they are digital representations of shares or share-linked interests. The key investor question is whether the token gives the holder the same economic and legal rights as the underlying stock, and whether the venue handling it has credible controls. On September 17, 2026, the <a href=\"https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment\\\">U.S. Securities and Exchange Commission's Innovation Exemption</a> created temporary, conditional relief for certain venues to trade tokenized National Market System stocks. It is an experiment in market structure, not a blanket assurance that every token labeled as a stock is safe or equivalent to owning a conventional share.</p><p><img src=\"assets/github-tokenized-stocks-explained-what-the-sec-s-innovation-exemption-means-for-investo-1.png\" alt=\"\" loading=\"lazy\">",
+      "heading1": "What is a tokenized stock?",
+      "section1": "A tokenized stock uses distributed-ledger technology to record ownership or trading interests connected to a publicly traded share. The investment thesis may sound simple: move stock trading onto digital rails. Yet the essential distinction is legal, not technical. A token can only be meaningfully comparable to a traditional share if its holder receives the same rights and privileges as the equivalent class of stock, including the rights specified by the issuer and applicable law. A sleek app interface or blockchain record does not, on its own, establish that connection.",
+      "quote": "",
+      "heading2": "How does the SEC's temporary framework work?",
+      "section2": "The SEC's September 17 order applies to Tokenized Securities Venues, or TSVs, that bring together buyers and sellers through permissioned automated market makers and liquidity pools. The relief is conditional and set to expire five years after publication. Among the stated conditions are limits on symbols and trading volume, verification of equivalent holder rights, auditable public smart contracts on a public permissionless ledger, and a requirement to halt tokenized-stock trading when the underlying stock stops trading on its primary exchange.</p><p><strong>What risks should an individual investor check before buying?</strong></p><p>Start with four practical checks. First, ask exactly what you own: a share, a contractual claim, or exposure issued by an intermediary. Second, confirm who holds custody and how transfers, account recovery, and insolvency are handled. Third, compare liquidity: a token may reference a widely traded stock while trading in a far thinner pool with wider spreads. Fourth, read the venue's rules for corporate actions, voting, dividends, trading halts, and fees. The SEC framework specifically requires public notice about TSV operations and trading activity, but investors should still review the disclosures rather than infer protections from the word tokenized.</p><p><strong>Does tokenization change a sensible portfolio strategy?</strong></p><p>For most long-term investors, the core discipline remains diversification, costs, liquidity, tax awareness, and a risk level they can sustain. Tokenization may eventually make settlement or market access more efficient, but it does not remove company risk, valuation risk, market risk, or the need for due diligence. Treat a new trading format as a feature to evaluate, not a reason to abandon a plan. If the legal rights, custody chain, and exit path are unclear, waiting is often a financially rational decision.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "why-government-impersonation-scams-are-becoming-a-financial-system-risk",
     "title": "Why Government-Impersonation Scams Are Becoming a Financial-System Risk",
     "category": "Article",
