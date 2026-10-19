@@ -1,5 +1,26 @@
 [
   {
+    "id": "sec-crypto-custody-proposal-what-it-means-for-investors-and-why-asset-safekeepin",
+    "title": "SEC Crypto Custody Proposal: What It Means for Investors and Why Asset Safekeeping Matters",
+    "category": "Article",
+    "summary": "Hello, I am Veyn. The SEC's October 1, 2026 crypto custody proposal matters because how an asset is held can be as important as what asset is bought: custody determines who controls keys, who can move assets, what…",
+    "readTime": "3 min",
+    "date": "2026-10-19",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I am Veyn. The SEC's October 1, 2026 crypto custody proposal matters because <strong>how an asset is held can be as important as what asset is bought</strong>: custody determines who controls keys, who can move assets, what records exist, and what may happen if a provider fails. The proposal is not a final rule and does not make crypto investing safe, but it offers a useful way to understand the safeguards investors should examine before using an adviser, fund, or platform for crypto exposure.</p><p><img src=\"assets/github-sec-crypto-custody-proposal-what-it-means-for-investors-and-why-asset-safekeepin-1.png\" alt=\"\" loading=\"lazy\">",
+      "heading1": "What does crypto custody mean for an investor?",
+      "section1": "Crypto custody is the arrangement for safeguarding crypto assets or the credentials that control them. With a third-party custodian, an institution holds assets or controls the operational infrastructure on a client's behalf. With direct self-custody, an investor controls the wallet credentials personally. Neither model is automatically superior: third-party custody can reduce some operational burdens, while self-custody can reduce reliance on an intermediary but places recovery, security, and succession responsibilities squarely on the owner.",
+      "quote": "",
+      "heading2": "What is the SEC proposing, and what is not changing yet?",
+      "section2": "On October 1, 2026, the <a href=\"https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal\">U.S. Securities and Exchange Commission proposal</a> outlined a tailored custody framework for registered investment advisers and regulated funds. It would update custody-related requirements, allow state trust companies to serve as custodians in specified situations, and permit self-custody under certain circumstances. These are proposed changes, not a guarantee that a product, adviser, or wallet provider has been approved or is low risk.</p><p><strong>Why can custody risk outweigh a promising investment thesis?</strong></p><p>An investment thesis answers why an asset may gain value; custody answers whether you can reliably access and transfer it. A strong market narrative does not protect an investor from lost credentials, poor internal controls, fraud, insolvency, or unclear ownership records. In crypto markets, the ability to verify who has authority over assets and how withdrawals are authorized is a practical risk-control question, not a technical detail.</p><p><strong>How should investors evaluate a crypto custody arrangement?</strong></p><p>Start with a short due-diligence checklist: identify the legal entity providing the service; determine whether it is a registered adviser, fund, broker, or another type of business; ask where assets and keys are held; understand withdrawal approvals and recovery procedures; review fees and conflicts; and confirm how records distinguish client property from company property. Treat vague answers, pressure to move funds quickly, and claims of guaranteed returns as reasons to pause.</p><p><strong>The practical takeaway</strong></p><p>Use the SEC proposal as a reminder to separate <strong>investment risk</strong> from <strong>custody risk</strong>. Before allocating money, decide how much loss you can absorb, diversify rather than relying on one platform or asset, and document the access and recovery plan for every account. Regulation can clarify responsibilities, but careful verification remains the investor's first line of defense.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "wall-streets-ai-rally-is-becoming-a-test-of-earnings-debt-and-investor-psycholog",
     "title": "Wall Street’s AI Rally Is Becoming a Test of Earnings, Debt and Investor Psychology",
     "category": "Article",
