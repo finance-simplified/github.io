@@ -1,5 +1,26 @@
 [
   {
+    "id": "mortgage-rates-at-7-11-why-a-small-weekly-drop-does-not-yet-mean-affordable-hous",
+    "title": "Mortgage Rates at 7.11%: Why a Small Weekly Drop Does Not Yet Mean Affordable Housing",
+    "category": "Article",
+    "summary": "Mortgage rates fell, but affordability is still under pressure. Freddie Mac's average 30-year fixed mortgage rate declined to 7.11% in the week reported on November 12, 2026, its fourth consecutive weekly fall. That is…",
+    "readTime": "3 min",
+    "date": "2026-11-20",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "<strong>Mortgage rates fell, but affordability is still under pressure.</strong> Freddie Mac's average 30-year fixed mortgage rate declined to 7.11% in the week reported on November 12, 2026, its fourth consecutive weekly fall. That is welcome relief, yet it remains far above the 6.24% average a year earlier and can still materially reduce a buyer's budget. The practical lesson is to treat a weekly rate move as a pricing signal, not as proof that buying conditions have broadly improved.",
+      "heading1": "Why did mortgage rates fall to 7.11%?",
+      "section1": "The immediate driver was a lower 10-year US Treasury yield. Mortgage lenders commonly use that yield as a benchmark when pricing long-term home loans, then add a spread to cover funding, servicing, credit, and market risks. The <a href=\"https://apnews.com/article/interest-rates-housing-inflation-mortgages-366d26ae1c60182caa2819bed76ab346\">average 30-year fixed mortgage rate</a> fell from 7.18% the previous week as the 10-year Treasury yield had mostly declined from early-October highs.</p><p>This connection is important: the Federal Reserve does <strong>not</strong> directly set a 30-year mortgage rate. Its short-term policy rate affects financial conditions and investors' expectations, while bond investors continuously price inflation, growth, government borrowing, and uncertainty. When those expectations push Treasury yields down, mortgage rates often follow; when they rise, lenders usually reprice quickly.",
+      "quote": "",
+      "heading2": "What does a 7.11% mortgage rate mean for a household budget?",
+      "section2": "At a higher rate, more of each payment goes to interest and less borrowing fits the same monthly budget. The source estimates that a buyer financing a $400,000 loan would pay roughly $300 more per month at the latest average rate than when the average was just below 6% in late February. That difference can affect debt-to-income qualification, the size of a down payment needed, and the type of home a household can realistically consider.</p><p><img src=\"assets/github-mortgage-rates-at-7-11-why-a-small-weekly-drop-does-not-yet-mean-affordable-hous-1.jpg\" alt=\"\" loading=\"lazy\"></p><p><strong>Why the quoted average is not your personal rate</strong></p><p>A published average is a market snapshot, not an offer. A borrower's actual rate depends on credit profile, loan size, down payment, property type, loan term, points, and lender margins. Comparing several written loan estimates on the same day is more useful than assuming a headline decline will automatically appear in an individual quote.</p><p><strong>Can mortgage rates keep falling if inflation stays high?</strong></p><p>They can, but the path is uncertain. The report notes that persistently high inflation had increased expectations that the Federal Reserve could raise its key rate at its December meeting. High inflation can keep Treasury yields elevated because investors demand compensation for losing purchasing power over time. A borrower should therefore avoid planning around a single forecast and instead test whether a purchase remains affordable if the quoted rate changes before closing.</p><p><strong>How should homebuyers respond to changing mortgage rates?</strong></p><p>Start with payment resilience rather than rate headlines: include principal, interest, taxes, insurance, maintenance, and a buffer for emergencies. If the payment works at today's rate, a later refinance may be an option if rates fall, but it should not be assumed. If it only works after a large hypothetical rate drop, waiting or lowering the target purchase price may be the safer wealth-management choice. The key risk is not missing one week's decline; it is taking on a payment that leaves no room for ordinary financial shocks.</p><p><strong>Sources and further reading</strong></p><p><a href=\"https://apnews.com/article/interest-rates-housing-inflation-mortgages-366d26ae1c60182caa2819bed76ab346\">The average US 30-year mortgage rate falls to 7.11% this week, its fourth straight decline</a> Explains the transmission from Treasury yields, inflation, and Federal Reserve policy into household mortgage borrowing costs.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "what-mixed-global-markets-reveal-about-ai-valuations-interest-rates-oil-and-trad",
     "title": "What Mixed Global Markets Reveal About AI Valuations, Interest Rates, Oil and Trade Risk",
     "category": "Article",
